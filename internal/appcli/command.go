@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/moonliightz/magic-home/internal/util"
-	magichome "github.com/moonliightz/magic-home/pkg"
+	"github.com/dyllan500/magic-home/internal/util"
+	magichome "github.com/dyllan500/magic-home/pkg"
 	"github.com/urfave/cli/v2"
 )
 
