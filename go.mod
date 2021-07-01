@@ -1,4 +1,4 @@
-module github.com/moonliightz/magic-home
+module github.com/dyllan500/magic-home
 
 go 1.13
 
