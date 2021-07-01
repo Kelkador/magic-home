@@ -60,7 +60,7 @@ func (c *Controller) SetColor(color Color) error {
 		sum += int(value)
 	}
 
-	bytesToSend = append(bytesToSend, byte(sum&0xff))
+	//bytesToSend = append(bytesToSend, byte(sum&0xff))
 
 	_, err := c.conn.Write(bytesToSend)
 	if err != nil {
