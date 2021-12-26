@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/moonliightz/magic-home/internal/appcli"
+	"github.com/Kelkador/magic-home/internal/appcli"
 	"github.com/urfave/cli/v2"
 )
 
